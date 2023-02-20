@@ -1,7 +1,6 @@
 # Project-Droid
 
-Esse projeto Foi tirado do Curso em Vídeo do Professor
-Gustavo Guanabara
+The project is in Brazilian Portuguese
 
 This project was taken from Professor Gustavo Guanabara's 
 Curso em Vídeo 
